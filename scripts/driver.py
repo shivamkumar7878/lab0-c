@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+# Driver program for C programming exercise with python
 
 from __future__ import print_function
 import subprocess
@@ -7,7 +8,6 @@ import getopt
 
 
 
-# Driver program for C programming exercise
 class Tracer:
 
     traceDirectory = "./traces"
